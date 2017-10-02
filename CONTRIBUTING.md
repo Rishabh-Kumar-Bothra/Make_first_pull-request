@@ -6,6 +6,10 @@ Contributors add your name here :
 
 - Rishabh Bansal (https://github.com/rishabh-bansal)
 
+- Onuwa Nnachi Isaac (https://github.com/iamonuwa)
+
+- Rishabh Shukla (https://github.com/rishz)
+=======
 - Rishabh Shukla (https://github.com/rishz)
 
 
