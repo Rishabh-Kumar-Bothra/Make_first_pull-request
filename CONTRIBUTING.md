@@ -9,6 +9,9 @@ Contributors add your name here :
 - Rishabh Shukla (https://github.com/rishz)
 
 
+-Juan Medina (https://github.com/JAmixer)
+=======
+
 - Martijn B (https://github.com/x1mdev
 =======
 - Tannishk Sharma(https://github.com/tannishk)
