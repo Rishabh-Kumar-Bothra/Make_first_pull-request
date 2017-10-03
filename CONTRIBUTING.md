@@ -9,6 +9,8 @@ Contributors add your name here :
 - Onuwa Nnachi Isaac (https://github.com/iamonuwa)
 
 - Rishabh Shukla (https://github.com/rishz)
+
+- Prince Mittal (https://github.com/mittalprince)
 =======
 - Rishabh Shukla (https://github.com/rishz)
 
