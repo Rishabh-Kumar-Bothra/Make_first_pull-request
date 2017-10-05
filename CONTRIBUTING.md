@@ -27,3 +27,5 @@ Contributors add your name here:
 - Devesh Verma (https://github.com/devshiva619)
 
 - Vaibhav Jain (https://github.com/vaibhav29498)
+
+- Shade Ruangwan (https://github.com/sruangwan)
