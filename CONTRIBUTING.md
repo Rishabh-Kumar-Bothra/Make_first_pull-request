@@ -1,6 +1,6 @@
 Contributors add your name here:
 
-- Bervianto Leo Pratama(https://github.com/berviantoleo)
+- Bervianto Leo Pratama (https://github.com/berviantoleo)
 
 - RISHABH KR BOTHRA (https://github.com/geekychaser)
 
