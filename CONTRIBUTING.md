@@ -34,5 +34,7 @@ Contributors add your name here :
 
 - Vaibhav Jain (https://github.com/vaibhav29498)
 
+- Gagan Ganapathy (https://github.com/CodHeK)
+
 
 
