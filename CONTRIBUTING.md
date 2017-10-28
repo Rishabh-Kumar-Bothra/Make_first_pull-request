@@ -49,6 +49,10 @@ Contributors add your name here:
 
 - Shivam (https://github.com/hereiscoding)
 
+
+- Aquib (https://github.com/aquib786)
+
+=======
 - Suras (https://github.com/surasnayak)
 
 
@@ -56,4 +60,5 @@ Contributors add your name here:
 
 =======
 - Rishabh aggarwal (https://github.com/passionatecricketer)
+
 
