@@ -49,5 +49,9 @@ Contributors add your name here:
 
 - Shivam (https://github.com/hereiscoding)
 
-- Rishabh (https://github.com/passionatecricketer)
+
+- Rishabh agarwal (http://github.com/Rishabhagrawal52)
+
+=======
+- Rishabh aggarwal (https://github.com/passionatecricketer)
 
