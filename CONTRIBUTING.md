@@ -49,4 +49,5 @@ Contributors add your name here:
 
 - Shivam (https://github.com/hereiscoding)
 
+- Rishabh (https://github.com/passionatecricketer)
 
