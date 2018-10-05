@@ -32,11 +32,11 @@ Contributors add your name here:
 
 
 - mohit garg (https://github.com/mohitgargNIEC)
-=======
+
 - Shade Ruangwan (https://github.com/sruangwan)
-=======
+
 - Gagan Ganapathy (https://github.com/CodHeK)
-=======
+
 - Aswin VB (https://github.com/aswinzz)
 
 - Arindam Das Modak (https://github.com/arindam-modak)
@@ -54,20 +54,21 @@ Contributors add your name here:
 
 - Aquib (https://github.com/aquib786)
 
-=======
+
 - Suras (https://github.com/surasnayak)
 
 
 - Rishabh agarwal (http://github.com/Rishabhagrawal52)
 
-=======
+
 - Rishabh aggarwal (https://github.com/passionatecricketer)
 
-======
+
 - Bandana Singh (https://github.com/Bandana9Singh)
 
-======
 - Mukul Verma
 
-======
+
 - Prabhu (https://github.com/caffeinatednerd)
+
+-rishabh jain(https://github.com/rishabhjain1234)
