@@ -1,2 +1,0 @@
-##rishabh jain
-###School student
