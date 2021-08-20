@@ -4,7 +4,7 @@
 
 India
 
-## Academics
+### Academics
 
 Camellia Institute of Technology and Management (CITM Hooghly)
 
